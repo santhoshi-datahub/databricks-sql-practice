@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+1,Laptop,Electronics,950
+2,Monitor,Electronics,280
+3,Keyboard,Electronics,70
+4,Mouse,Electronics,35
+5,Headphones,Electronics,120
+6,Webcam,Electronics,60
+7,Desk,Furniture,340
+8,Office Chair,Furniture,260
+9,Bookshelf,Furniture,150
+10,Desk Lamp,Furniture,45
+11,Notebook,Office Supplies,6
+12,Pen Pack,Office Supplies,9
+13,Stapler,Office Supplies,14
+14,Printer Paper,Office Supplies,32
+15,Whiteboard,Office Supplies,85
+16,Coffee Maker,Appliances,90
+17,Air Purifier,Appliances,180
+18,Space Heater,Appliances,65
+19,Fan,Appliances,40
+20,Kettle,Appliances,30
