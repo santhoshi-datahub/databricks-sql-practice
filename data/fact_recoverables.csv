@@ -1,0 +1,6 @@
+recoverable_id,claim_id,treaty_id,ceded_claim_amount,amount_recovered,outstanding_recoverable,recovery_status
+REC-5001,CLM-4001,TR-1001,150000.0,150000.0,0.0,Settled
+REC-5002,CLM-4002,TR-1002,40000.0,0.0,400000.0,Pending
+REC-5003,CLM-4003,TR-1003,900000.0,900000.0,0.0,Settled
+REC-5004,CLM-4004,TR-1005,560000.0,500000.0,60000.0,Partially Settled
+REC-5005,CLM-4005,TR-1001,90000.0,0.0,90000.0,Pending

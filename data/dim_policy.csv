@@ -1,0 +1,11 @@
+policy_id,treaty_id,policyholder_name,issue_date,face_amount,policy_status,state
+POL-2001,TR-1001,John Doe,2023-02-15,500000.0,Active,NY
+POL-2002,TR-1001,Jane Smith,2023-03-10,1000000.0,Active,NC
+POL-2003,TR-1002,Bob Johnson,2023-04-01,750000.0,Active,CA
+POL-2004,TR-1002,Alice Williams,2023-05-20,2000000.0,Lapsed,TX
+POL-2005,TR-1003,Charlie Brown,2023-07-11,1500000.0,Active,FL
+POL-2006,TR-1004,Diana Prince,2024-01-15,300000.0,Active,IL
+POL-2007,TR-1004,Evan Wright,2024-02-01,450000.0,Active,NC
+POL-2008,TR-1005,Fiona Gallagher,2024-03-05,800000.0,Claimed,NJ
+POL-2009,TR-1005,George Clark,2024-04-12,1200000.0,Active,GA
+POL-2010,TR-1001,Hannah Abbott,2024-05-01,600000.0,Active,VA

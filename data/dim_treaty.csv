@@ -1,0 +1,6 @@
+treaty_id,treaty_name,reinsurer_name,treaty_type,line_of_business,effective_date,expiration_date,retention_pct,ceded_pct
+TR-1001,Global Life Quota Share,Swiss Re,Quota Share,Life,2023-01-01,2025-12-31,0.4,0.6
+TR-1002,US Term Excess of Loss,Munich Re,Excess of Loss,Life,2023-01-01,2025-12-31,0.2,0.8
+TR-1003,Catastrophe Reinsurance A,Hannover Re,Excess of Loss,Property & Casualty,2023-06-01,2024-05-31,0.1,0.9
+TR-1004,Group Life Excess Re,SCOR SE,Quota Share,Group Life,2024-01-01,2026-12-31,0.5,0.5
+TR-1005,Annuity Risk Share,RGA,Quota Share,Annuities,2024-01-01,2026-12-31,0.3,0.7
